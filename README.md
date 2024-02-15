@@ -1,9 +1,9 @@
 # infoGraph-project
 
-for login you can use:
-username: admin
-password: admin
+### for login you can use:
+#### username: admin
+#### password: admin
 
-##Entity Relationship Diagram (ERD):
+## Entity Relationship Diagram (ERD):
 
-![ERD]('./assets/infograpg ERD.png')  
+![ERD](./assets/infograpg%20ERD.png)
