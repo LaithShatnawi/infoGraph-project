@@ -6,4 +6,4 @@ password: admin
 
 ##Entity Relationship Diagram (ERD):
 
-![ERD]('./assets/infograpg-ERD.png')  
+![ERD]('./assets/infograpg ERD.png')  
